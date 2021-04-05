@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    background-color: rgb(52, 230, 176);
+
+}
+#fullWebsite{
+
+    width: 1020px;
+    height: 700px;
+    margin: auto 0px auto 170px ;
+
+
+}
+#navMenu{
+
+    background-color: brown;
+    text-align: right;
+    
+
+}  
+    
+#navMenu ul{
+
+    display: inline-block;
+    text-align: center;
+ 
+}
+#navMenu ul:hover{
+
+    background-color: darkcyan;
+
+}
+
+
+#navMenu ul li{
+
+    display: inline-block;
+    padding: 20px 30px;
+
+  
+}
+#navMenu ul li:hover{
+   
+    background-color: olive;
+}
+#navMenu ul li a{
+    
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+  
+ 
+    
+}
+
+
+#aboutMe{
+
+    background-color:2f3640;
+    text-align: center;
+    color: white;
+    margin-top: -20px;
+
+}
+.heLlo {
+    margin-top: 2px;
+    padding: 25px;
+    font-size: 25px;
+    color: rgb(255, 248, 255);
+}
+.ruHul {
+    margin-top: -38px;
+    font-size: 45px;
+    letter-spacing: 5px;
+    color: rgb(255, 250, 250);
+    opacity: .8;
+}
+.bIo {
+    margin-top: 16px;
+    font-size: 31px;
+    color: rgba(41, 212, 212, 0.616);
+  
+}
+#aboutMe .heLlo .bIo{
+
+    background-color: cornflowerblue;
+    padding: 20px;
+    color: white;
+    display: inline-block;
+    width: 300px;
+    height: 150px;
+
+}
+
+#banNer{
+
+    background-color:#2f3640;
+    padding: 20px;
+    text-align: center;
+
+
+}
+#banNer img {
+   
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid rgba(6, 121, 111, 0.671);
+    border-radius:  29px 114px 38px;
+    background-color:#2f3640;
+
+}
+
+
+#banNer h2{
+
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.serVices{
+    text-align: center;
+    padding: 20px;
+    background-color: burlywood;
+    font-size: 40px;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 1020px;
+    height: 200px;
+  
+    
+}
+.card1 {
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(27 157 224);
+    color: rgb(255, 250, 250);
+    max-width: 530px;
+    height: 180px;
+    padding: 8px;
+}
+.heaDing{
+    text-align: center;
+    padding: 10px;
+}
+.card2{
+
+    color: white;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(72, 84, 96);
+    
+    
+}
+
+
+.card2 h2{
+
+    text-align: center;
+    padding: 15px;
+    color: white;
+    
+   
+}
+
+
+#mainFooter{
+
+    background-color: mediumvioletred;
+    padding: 20px;
+
+  
+}
+#mainFooter .footer{
+
+    background-color: mediumvioletred;
+    padding: -5px;
+    font-size: 15px;
+
+}
+#mainFooter .footer h2{
+
+
+    text-align: center;
+ 
+
+}
